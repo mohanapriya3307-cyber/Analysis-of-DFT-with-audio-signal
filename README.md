@@ -9,6 +9,7 @@
    PC installed with SCILAB/Python. 
 
 # PROGRAM: 
+```
 // Clear environment
 clear;
 clc;
@@ -46,6 +47,7 @@ figure(2);
 plot(f, P1);
 xtitle('Single-Sided Amplitude Spectrum of Audio Signal', 'Frequency (Hz)', 'Magnitude');
 xgrid();
+```
 
 
 // analyze audio signal
